@@ -11,7 +11,7 @@ Todos os dados são usados exclusivamente para fins de estudo, seguindo boas pr�
 - **[Exploração de Espécies Florais](https://github.com/benzerinsio/FloralSpecies-EDA):** Busca por padrões com estatísticas descritivas, visualizações e o algoritmo K-Means para clusterização.  
 - **[Avaliação de Qualidade de Vinhos](https://github.com/benzerinsio/WineQuality-EDA):** Investigando características físico-químicas e sua relação com a qualidade através de estatísticas, transformações e visualizações.  
 - **[Análise para Detecção de Câncer de Mama](https://github.com/benzerinsio/BreastCancer-EDA):** Exploração de características clínicas pra identificar padrões relacionados ao diagnóstico de câncer.  
-- *Investigação de Fatores Cardíacos* (Em Breve): Análise de variáveis de saúde pra entender fatores de risco em doenças cardíacas.  
+- **[Investigação de Fatores Cardíacos](https://github.com/benzerinsio/HeartDisease-EDA)** : Análise de variáveis de saúde pra entender fatores de risco em doenças cardíacas.  
 - *Descoberta de Padrões em Vendas* (Em Breve): Investigação de transações comerciais pra revelar tendências e comportamentos de compra.  
 
 ## 🛠️ Bibliotecas Utilizadas
