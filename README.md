@@ -16,10 +16,13 @@ Todos os dados são usados exclusivamente para fins de estudo, seguindo boas pr�
 
 ## 🛠️ Bibliotecas Utilizadas
 
-- **Pandas**: Manipulação e análise de dados.  
-- **NumPy**: Cálculos numéricos e transformações matemáticas.  
-- **Seaborn**: Visualizações estatísticas avançadas.  
-- **Matplotlib**: Geração de gráficos e plots customizados.  
+- **Pandas**: Manipulação e análise de dados.
+- **NumPy**: Cálculos numéricos e transformações matemáticas.
+- **Seaborn**: Visualizações estatísticas avançadas.
+- **Matplotlib**: Geração de gráficos e plots customizados.
+- **Plotly**: Visualizações interativas e dinâmicas.
+- **SciPy**: Análise estatística e decomposição temporal.
+- **Statsmodels**: Modelagem de séries temporais (ex.: ARIMA).
 - **Scikit-Learn**: Ferramentas de pré-processamento e clustering (quando aplicável).
 
 ## 💬 Sobre os Projetos
