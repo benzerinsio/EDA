@@ -8,7 +8,7 @@ Todos os dados são usados exclusivamente para fins de estudo, seguindo boas pr�
 
 ## Projetos
 
-- **[Descoberta de Padrões em Vendas](https://github.com/benzerinsio/SalesPatterns-EDA)**: Análise de dados de vendas pra entender tendências temporais e segmentações.
+- **[Descoberta de Padrões em Vendas (Visualização em nbviewer)](https://github.com/benzerinsio/SalesPatterns-EDA)**: Análise de dados de vendas pra entender tendências temporais e segmentações.
 - **[Investigação de Fatores Cardíacos](https://github.com/benzerinsio/HeartDisease-EDA)** : Análise de variáveis de saúde pra entender fatores de risco em doenças cardíacas.
 - **[Análise para Detecção de Câncer de Mama](https://github.com/benzerinsio/BreastCancer-EDA):** Exploração de características clínicas pra identificar padrões relacionados ao diagnóstico de câncer.
 - **[Avaliação de Qualidade de Vinhos](https://github.com/benzerinsio/WineQuality-EDA):** Investigando características físico-químicas e sua relação com a qualidade através de estatísticas, transformações e visualizações.
@@ -21,8 +21,6 @@ Todos os dados são usados exclusivamente para fins de estudo, seguindo boas pr�
 - **Seaborn**: Visualizações estatísticas avançadas.
 - **Matplotlib**: Geração de gráficos e plots customizados.
 - **Plotly**: Visualizações interativas e dinâmicas.
-- **SciPy**: Análise estatística e decomposição temporal.
-- **Statsmodels**: Modelagem de séries temporais (ex.: ARIMA).
 - **Scikit-Learn**: Ferramentas de pré-processamento e clustering (quando aplicável).
 
 ## 💬 Sobre os Projetos
